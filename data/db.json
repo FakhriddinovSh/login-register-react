@@ -1,104 +1,134 @@
 {
-  "posts": [
-    {
-      "user_id": 18,
-      "title": "dasdsad",
-      "body": "sadasdd",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 00:58",
-      "id": 2
-    },
-    {
-      "user_id": 18,
-      "title": "dsdas",
-      "body": "dasdasd",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 01:12",
-      "id": 3
-    },
-    {
-      "user_id": 18,
-      "title": "dsdas",
-      "body": "dasdasd",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 01:12",
-      "id": 4
-    },
-    {
-      "user_id": 18,
-      "title": "dsdas",
-      "body": "dasdasddsad",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 01:12",
-      "id": 5
-    },
-    {
-      "user_id": 18,
-      "title": "dsdasdasd",
-      "body": "dasdasddsad",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 01:12",
-      "id": 6
-    },
-    {
-      "title": "191918181",
-      "body": "19181898",
-      "create_at": "26.12.2022 11:26",
-      "id": 7
-    },
-    {
-      "user_id": 18,
-      "title": "Hello world",
-      "body": "lorem 20 200 20 202 20 2",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 10:52",
-      "id": 8
-    },
-    {
-      "title": "what is your name",
-      "body": "shahobiddin",
-      "create_at": "26.12.2022 11:25",
-      "id": 9
-    },
-    {
-      "user_id": 18,
-      "title": "ddsadasdasd",
-      "body": "dasdadsad",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 10:54",
-      "id": 10
-    },
-    {
-      "user_id": 18,
-      "title": "hello react",
-      "body": "...",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 11:30",
-      "id": 11
-    },
-    {
-      "user_id": 18,
-      "title": "dqweqwewq",
-      "body": "sadasda",
-      "user_name": "hhhh",
-      "create_at": "26.12.2022 12:14",
-      "id": 12
-    }
-  ],
-  "users": [
-    {
-      "email": "hellow@gmail.com",
-      "password": "$2a$10$Tzxf2xc6.6CjrXYW1QhUpuMRw5Pjopt//xH2Ceix.CDkfarPCFLN6",
-      "firstname": "Hellow",
-      "lastname": "hello w",
-      "id": 17
-    },
-    {
-      "email": "hh@gmail.com",
-      "password": "$2a$10$eWJExnmC8Msg5URBHB4YjO3PWdOxqaow.HeDLEE3VSIZzGOAV1vai",
-      "firstname": "hh",
-      "lastname": "hh",
-      "id": 18
-    }
-  ]
+	"posts": [
+		{
+			"user_id": 18,
+			"title": "dasdsad",
+			"body": "sadasdd",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 00:58",
+			"id": 2
+		},
+		{
+			"user_id": 18,
+			"title": "dsdas",
+			"body": "dasdasd",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 01:12",
+			"id": 3
+		},
+		{
+			"user_id": 18,
+			"title": "dsdas",
+			"body": "dasdasd",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 01:12",
+			"id": 4
+		},
+		{
+			"user_id": 18,
+			"title": "dsdas",
+			"body": "dasdasddsad",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 01:12",
+			"id": 5
+		},
+		{
+			"user_id": 18,
+			"title": "dsdasdasd",
+			"body": "dasdasddsad",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 01:12",
+			"id": 6
+		},
+		{
+			"title": "191918181",
+			"body": "19181898",
+			"create_at": "26.12.2022 11:26",
+			"id": 7
+		},
+		{
+			"user_id": 18,
+			"title": "Hello world",
+			"body": "lorem 20 200 20 202 20 2",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 10:52",
+			"id": 8
+		},
+		{
+			"title": "what is your name",
+			"body": "shahobiddin",
+			"create_at": "26.12.2022 11:25",
+			"id": 9
+		},
+		{
+			"user_id": 18,
+			"title": "ddsadasdasd",
+			"body": "dasdadsad",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 10:54",
+			"id": 10
+		},
+		{
+			"user_id": 18,
+			"title": "hello react",
+			"body": "...",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 11:30",
+			"id": 11
+		},
+		{
+			"user_id": 18,
+			"title": "dqweqwewq",
+			"body": "sadasda",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 12:14",
+			"id": 12
+		},
+		{
+			"user_id": 18,
+			"title": "wqeqweqw",
+			"body": "eqwadasdasd",
+			"user_name": "hhhh",
+			"create_at": "26.12.2022 12:54",
+			"id": 13
+		},
+		{
+			"user_id": 19,
+			"title": "mmm",
+			"body": "mmmm",
+			"user_name": "mmmmmmmmm",
+			"create_at": "26.12.2022 15:36",
+			"id": 14
+		}
+	],
+	"users": [
+		{
+			"email": "hellow@gmail.com",
+			"password": "$2a$10$Tzxf2xc6.6CjrXYW1QhUpuMRw5Pjopt//xH2Ceix.CDkfarPCFLN6",
+			"firstname": "Hellow",
+			"lastname": "hello w",
+			"id": 17
+		},
+		{
+			"email": "hh@gmail.com",
+			"password": "$2a$10$eWJExnmC8Msg5URBHB4YjO3PWdOxqaow.HeDLEE3VSIZzGOAV1vai",
+			"firstname": "hh",
+			"lastname": "hh",
+			"id": 18
+		},
+		{
+			"email": "mmmm@gmail.com",
+			"password": "$2a$10$tniaFiOS09uW3MAyVI0gYOUSAjQZsuq2Xcp5h2fQqmYYJTWjvIQz.",
+			"firstname": "mmmmmm",
+			"lastname": "mmm",
+			"id": 19
+		},
+		{
+			"email": "abdullox777@gmail.com",
+			"password": "$2a$10$2tUxoYjk0B7/i8S0BiIK8usEbIwYmb0lG.T3tu0VEOxUU7daVPb1K",
+			"firstname": "abdullox",
+			"lastname": "Abdullox",
+			"id": 20
+		}
+	]
 }
